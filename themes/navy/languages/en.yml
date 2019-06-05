@@ -5,10 +5,10 @@ menu:
 sidebar:
   chapter1:
     index: Chapter 1
-  
+    example: Example
   chapter-2:
     index: Chapter 2
-  
+    example-2: Example 2
   chapter-3:
     index: Chapter 3
   
