@@ -1,0 +1,20 @@
+menu:
+  chapters: Chapters
+  four-part-harmony: Four Part Harmony
+
+sidebar:
+  chapter1:
+    index: Chapter 1
+  
+  chapter-2:
+    index: Chapter 2
+  
+  chapter-3:
+    index: Chapter 3
+  
+  chapter-4: 
+    index: Chapter 4
+  
+  four-part-harmony: 
+    index: Four Part Harmony
+  
